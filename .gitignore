@@ -1,0 +1,12 @@
+rootfs/
+bootloader/
+*.txz
+*.iso
+*.img
+*.xz
+distfiles/
+work/
+*.o
+*.a
+*.so
+.svn/
